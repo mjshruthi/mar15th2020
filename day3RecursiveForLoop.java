@@ -1,3 +1,7 @@
+/* Using the file to learn about git
+
+ */
+
 public class day3RecursiveForLoop {
     static int count = 0;
     public static void main(String[] args) {
