@@ -1,5 +1,6 @@
 /* Using the file to learn about git
-
+ have lost data when I hit synchronize on Intellij i.e. changes in brnch2 los for second commit
+ this is for second commit in brnch1
  */
 
 public class day3RecursiveForLoop {
